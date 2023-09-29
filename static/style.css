@@ -1,0 +1,17 @@
+        .banner{
+    background-color:#4C787E;
+    width: 100%;
+        height:120px;
+        margin-bottom :50px;
+        }
+.banner-text{
+     width: 50%;
+     padding-top: 32px;
+     left:45%;
+    position: absolute;
+    color: #fff;
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-decoration: none;
+   font-family: system-ui;
+    }
